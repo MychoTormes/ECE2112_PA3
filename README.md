@@ -14,7 +14,7 @@ The steps:
 
 2) Load the corresponding file into a data frame named cars.csv using pd.read_csv:
 
-        pd.read_cav('cars.csv')
+        pd.read_csv('cars.csv')
 
 3) Display the first five rows of the resulting cars using df.head():
 
