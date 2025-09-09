@@ -18,11 +18,11 @@ The steps:
 
 3) Display the first five rows of the resulting cars using df.head():
 
-        c.head()
+        c.head(5)
 
 4) Display the last five rows of the resulting cars using df.tail():
 
-       c. tail()
+       c. tail(5)
 
 5) Save the file as Surname_Pandas-P1.py
 
