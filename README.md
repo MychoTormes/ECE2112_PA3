@@ -29,9 +29,9 @@ The steps:
 ### 📌 Files
 All the codes are done in this file. 
          
-[Pandas Part 1.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.py)
+[Tormes_Pandas-P1.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.py)
 
-[Pandas Part 1.ipynb](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.ipynb)
+[Pandas Part 1](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.ipynb)
 
 ### 📍 Reference
 
@@ -73,7 +73,8 @@ The steps:
 ### 📌 Files
 All the codes are done in the file.
 
-           Tormes_Pandas-P2.py
+  [Tormes_Pandas-P2.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P2.py)
+  [Pandas Part 2]
 
 ### 📍 Reference
 
