@@ -1,11 +1,11 @@
 # ECE22112_PA3: Python Data Analysis (Panda) 
 
-## Problem 1
+## 💻 Problem 1
 Using knowledge obtained from the experiment and demonstrations:
 
 Load the corresponding .csv file into a data frame using pandas, and display the first five and last five rows of the resulting cars
 
-## Background
+## 🟢 Background
 The steps:
 
 1) Import Python Data Analysis (panda) in the notebook:
@@ -26,21 +26,21 @@ The steps:
 
 5) Save the file as Surname_Pandas-P1.py
 
-### Files
+### 📌 Files
 All the codes are done in this file. 
          
-      [Pandas Part 1](src/TORMES_Pandas-P1.py)
+[Pandas Part 1.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.py)
 
-### Reference
+### 📍 Reference
 
       [cheat sheet](files/Pandas Cheat Sheet.pdf)
 
-## Problem 2
+## 💻 Problem 2
 Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations.
 
 Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars and the row that contains the ‘Model’ of ‘Mazda RX4’, find how many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have and determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
-## Background
+## 🟢 Background
 The steps:
 
 1) Import Python Data Analysis (panda) in the notebook:
@@ -68,12 +68,12 @@ The steps:
 
            c.loc[[1,28,18], ['cyl', 'gear']]
 
-### Files
+### 📌 Files
 All the codes are done in the file.
 
            Tormes_Pandas-P2.py
 
-### Reference
+### 📍 Reference
 
            Pandas Cheat Sheet.pdf
 
