@@ -30,6 +30,7 @@ The steps:
 All the codes are done in this file. 
          
 [Pandas Part 1.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.py)
+[Pandas Part 1.ipynb](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.ipynb)
 
 ### 📍 Reference
 
