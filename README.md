@@ -14,7 +14,7 @@ The steps:
 
 2) Load the corresponding file into a data frame named cars.csv using pd.read_csv:
 
-        pd.read_csv('cars.csv')
+        df = pd.read_csv('cars.csv')
 
 3) Display the first five rows of the resulting cars using df.head():
 
@@ -77,4 +77,4 @@ All the codes are done in the file.
 
            Pandas Cheat Sheet.pdf
 
-### The answers are made by Mycho Tormes
+### The answers worked for this Programming Assignment are made by Mycho Tormes
