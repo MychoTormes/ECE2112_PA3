@@ -30,11 +30,12 @@ The steps:
 All the codes are done in this file. 
          
 [Pandas Part 1.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.py)
+
 [Pandas Part 1.ipynb](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.ipynb)
 
 ### 📍 Reference
 
-      [cheat sheet](files/Pandas Cheat Sheet.pdf)
+[Pandas cheat sheet](https://github.com/MychoTormes/ECE2112_PA3/blob/main/Pandas%20Cheat%20Sheet.pdf)
 
 ## 💻 Problem 2
 Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations.
@@ -76,6 +77,6 @@ All the codes are done in the file.
 
 ### 📍 Reference
 
-           Pandas Cheat Sheet.pdf
+[Pandas Cheat Sheet](https://github.com/MychoTormes/ECE2112_PA3/blob/main/Pandas%20Cheat%20Sheet.pdf)
 
 ### The answers worked for this Programming Assignment are made by Mycho Tormes
