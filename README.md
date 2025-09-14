@@ -26,6 +26,8 @@ The steps:
 
 5) Save the file as Surname_Pandas-P1.py
 
+   [Tormes_Pandas-P1.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P1.py)
+
 ### 📌 Files
 All the codes are done in this file. 
          
@@ -69,7 +71,11 @@ The steps:
 7) Find the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ using .loc() and only display 'cyl' and 'gear':
 
            c.loc[[1,28,18], ['cyl', 'gear']]
+   
+8) Save the file as Surname_Pandas-P2.py
 
+   [Tormes_Pandas-P2.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P2.py)
+   
 ### 📌 Files
 All the codes are done in the file.
 
