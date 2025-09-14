@@ -29,11 +29,11 @@ The steps:
 ### Files
 All the codes are done in this file. 
          
-      Tormes_Pandas-P1.py
+      [Pandas Part 1](src/TORMES_Pandas-P1.py)
 
 ### Reference
 
-      Pandas Cheat Sheet.pdf
+      [cheat sheet](files/Pandas Cheat Sheet.pdf)
 
 ## Problem 2
 Using the dataframe cars in problem 1, extract the following information using subsetting, slicing and indexing operations.
