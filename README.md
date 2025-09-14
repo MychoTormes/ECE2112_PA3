@@ -74,7 +74,8 @@ The steps:
 All the codes are done in the file.
 
   [Tormes_Pandas-P2.py](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P2.py)
-  [Pandas Part 2]
+  
+  [Pandas Part 2](https://github.com/MychoTormes/ECE2112_PA3/blob/main/TORMES_Pandas-P2.ipynb)
 
 ### 📍 Reference
 
