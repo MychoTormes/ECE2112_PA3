@@ -88,3 +88,7 @@ All the codes are done in the file.
 [Pandas Cheat Sheet](https://github.com/MychoTormes/ECE2112_PA3/blob/main/Pandas%20Cheat%20Sheet.pdf)
 
 ### The answers worked for this Programming Assignment are made by Mycho Tormes
+
+Github Link to PA3: 
+[PA3 - Tormes, Mycho](https://github.com/MychoTormes/ECE2112_PA3)
+
